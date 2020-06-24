@@ -1,1 +1,1 @@
-web: gunicorn target/HolaMundoJavaWeb-1.0.war
+web: gunicorn target/ManejoFormularioHTML-1.0.war
