@@ -1,1 +1,1 @@
-web: gunicorn target/ManejoFormularioHTML-1.0.war
+web: play run --http.port=$PORT $PLAY_OPTS
